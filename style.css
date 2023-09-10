@@ -1,0 +1,27 @@
+body{
+    font: normal 18pt normal;
+    background-color: #F0F8FF;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+input{
+    font: normal 18pt arial;
+    width: 100px;
+    background-color: #ffecd4;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+div#res{
+    margin-top: 20px;
+}
+
+input#somar{
+    margin-top: 20px;
+}
